@@ -1,0 +1,33 @@
+body {
+    background-color: darkblue;
+   padding: 20px;
+   margin-top: 30px;
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   background-image: -moz-element();
+
+}
+
+
+ h3 {
+    text-align: center;
+}
+
+button {
+    background-color: blue;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+input {
+    border-color: chocolate;
+    margin-bottom: 10px;
+
+}
+
+
+
+
